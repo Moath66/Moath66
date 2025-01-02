@@ -1,4 +1,4 @@
-<h1 align="center">Hello and good day to all of you 👋</h1>
+<h1 align="center">👋Hello and good day to all of you..</h1>
 
 ---
 
@@ -31,8 +31,8 @@
 ### 🗄️ **Databases**  
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 
-## 📄 My CV:
-[![Download My CV](https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/Moath66/Moath66/blob/main/MyResume.pdf)
+## 📄 My Resume:
+[![Download My Resume](https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/Moath66/Moath66/blob/main/MyResume.pdf)
 
 
 ---
