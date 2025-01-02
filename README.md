@@ -19,13 +19,32 @@
 ---
 
 ## 🛠️ Tech Stack:
-- **Languages**: `Dart`, `Php` `JavaScript`, `HTML`, `CSS`, `![image](https://github.com/user-attachments/assets/2c2a22a4-f008-45dc-a709-f874adc522d9)
- , `Java`
-- **Frameworks & Libraries**: `Flutter`, `![image](https://github.com/user-attachments/assets/86fd2f19-b986-4b71-b5c7-884d26a80855)
-`, `![image](https://github.com/user-attachments/assets/18f4ccf2-9f57-46ed-a852-7b6df0d0874d)`
-- **Tools**: `Firebase`, `Git`, `VS Code`
-- **Database**: `![image](https://github.com/user-attachments/assets/200f5665-aa37-48a0-a231-40b8a58ea17f)
-`, `![image](https://github.com/user-attachments/assets/02255491-1b08-4cb9-8f3b-94e93b3fed68)`
+
+### 🖥️ **Languages**  
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)  
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+
+### 📚 **Frameworks & Libraries**  
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)  
+[![MERN](https://img.shields.io/badge/MERN-4CAF50?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/mern-stack)  
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+
+### 🔧 **Tools**  
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)  
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
+
+
+### 🗄️ **Databases**  
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+
 
 ---
 
