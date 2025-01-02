@@ -46,7 +46,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 
 ## 📄 My CV:
-[![Download My CV](https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://your-cv-link.com)
+[![Download My CV](https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/Moath66/Moath66/blob/main/MyResume.pdf)
 
 
 ---
