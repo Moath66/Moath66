@@ -3,7 +3,7 @@
 ---
 
 ## 💫 About Me:
-- 🎓 I'm a fresh Software Engineering graduate from University Teknologi Malaysia (UTM), passionate about software development.
+- 🎓 I'm a Software Engineering graduate from University Teknologi Malaysia (UTM), passionate about software development.
 - 💡 Currently exploring **Most technologies** to build innovative applications and websites.
 - 🔭 Looking to collaborate on **open-source projects** and impactful initiatives.
 - 🌱 Learning something new every day—currently diving into **Web Developing Tools**.
